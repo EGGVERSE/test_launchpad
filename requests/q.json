@@ -1,0 +1,1 @@
+{"title":"q","description":"q","mainnet":"","address":"q","functions":{"mintable":false,"burnable":false,"pausable":false,"votes":false,"royalty":false,"royaltyAmount":0},"settings":{"publicMintLimitPerBlock":"1","publicMintLimitPerSale":"1","publicMintPrice":"1","maxSaleAmountTotal":"1","whitelistMintLimitPerBlock":"1","whitelistMintLimitPerSale":"1","whitelistMintPrice":"1"}}
