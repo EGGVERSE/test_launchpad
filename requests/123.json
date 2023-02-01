@@ -1,0 +1,1 @@
+{"title":"123","description":"123","mainnet":"Ethereum","address":"123","image":"https://eggverselaunchpad.s3.amazonaws.com/123.png","functions":{"mintable":true,"burnable":false,"pausable":false,"votes":false,"royalty":false,"royaltyAmount":0},"settings":{"publicMintLimitPerBlock":"2","publicMintLimitPerSale":"1","publicMintPrice":"3","maxSaleAmountTotal":"4"}}
